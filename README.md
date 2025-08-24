@@ -254,6 +254,8 @@ Step 19: Login to Kali Linux
 <img width="955" height="925" alt="VirtualBox_kalilinux_24_08_2025_17_59_23" src="https://github.com/user-attachments/assets/adb895d6-2628-4fa2-aa55-52e15ae3784f" />
 
 ## Expected and terminal output:
+<img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_14_33" src="https://github.com/user-attachments/assets/3b9390f4-05d3-462f-ac7a-a2bc94ffc587" />
+
 <img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_03_53" src="https://github.com/user-attachments/assets/8a357197-dae0-49da-b4ed-2fdfb2ce1b31" />
 
 ## Linux Commands:
