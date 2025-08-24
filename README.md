@@ -256,3 +256,9 @@ Step 19: Login to Kali Linux
 ## Expected and terminal output:
 <img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_03_53" src="https://github.com/user-attachments/assets/8a357197-dae0-49da-b4ed-2fdfb2ce1b31" />
 
+## Linux Commands:
+<img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_11_39" src="https://github.com/user-attachments/assets/3c0c1037-394b-4fde-8670-ab22c351ebd1" />
+
+## RESULT
+Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
+
