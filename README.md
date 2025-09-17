@@ -1,8 +1,8 @@
 # Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-```
+
 ### NAME:Ajay J
 ### REG NO:212224110003
-```
+
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
